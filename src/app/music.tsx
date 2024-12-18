@@ -16,22 +16,22 @@ export default function Music() {
 
                     {/* Timer */}
                     <div className="flex sm:flex-wrap sm:justify-start md:justify-start pt-3 pb-3 gap-4">
-                        <div className="bg-slate-50 sm:w-[60px] sm:h-[60px] md:w-[70px] md:h-[70px] rounded-full flex flex-col justify-center items-center">
+                        <div className="bg-slate-50 sm:w-[60px] sm:h-[60px] md:w-[70px] md:h-[70px] sm:rounded-none md:rounded-full flex flex-col justify-center items-center">
                             <span className="font-bold sm:text-md md:text-lg">23</span>
                             <span className="sm:text-xs md:text-sm">Hours</span>
                         </div>
 
-                        <div className="bg-slate-50 sm:w-[60px] sm:h-[60px] md:w-[70px] md:h-[70px] rounded-full flex flex-col justify-center items-center">
+                        <div className="bg-slate-50 sm:w-[60px] sm:h-[60px] md:w-[70px] md:h-[70px] sm:rounded-none md:rounded-full flex flex-col justify-center items-center">
                             <span className="font-bold sm:text-md md:text-lg">05</span>
                             <span className="sm:text-xs md:text-sm">Days</span>
                         </div>
 
-                        <div className="bg-slate-50 sm:w-[60px] sm:h-[60px] md:w-[70px] md:h-[70px] rounded-full flex flex-col justify-center items-center">
+                        <div className="bg-slate-50 sm:w-[60px] sm:h-[60px] md:w-[70px] md:h-[70px] sm:rounded-none md:rounded-full flex flex-col justify-center items-center">
                             <span className="font-bold sm:text-md md:text-lg">59</span>
                             <span className="sm:text-xs md:text-sm">Minutes</span>
                         </div>
 
-                        <div className="bg-slate-50 sm:w-[60px] sm:h-[60px] md:w-[70px] md:h-[70px] rounded-full flex flex-col justify-center items-center">
+                        <div className="bg-slate-50 sm:w-[60px] sm:h-[60px] md:w-[70px] md:h-[70px] sm:rounded-none md:rounded-full flex flex-col justify-center items-center">
                             <span className="font-bold sm:text-md md:text-lg">35</span>
                             <span className="sm:text-xs md:text-sm">Seconds</span>
                         </div>

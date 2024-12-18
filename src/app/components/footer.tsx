@@ -73,12 +73,12 @@ export default function Footer() {
 
                             <div>
                                 <img
-                                    src="/play.png"
+                                    src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Google_Play_Store_badge_EN.svg/2560px-Google_Play_Store_badge_EN.svg.png"
                                     alt="Google Play"
                                     className='w-32 h-10 md:w-36 md:h-12 object-contain mb-2'
                                 />
                                 <img
-                                    src="/apple.png"
+                                    src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg"
                                     alt="Apple Play"
                                     className='w-32 h-10 md:w-36 md:h-12 object-contain'
                                 />
